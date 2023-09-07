@@ -1,7 +1,7 @@
 package lesson_2.homework2.task1;
 
 // Базовый класс для кота
-class Cat implements Iterfeis{
+class Cat implements IGreet{
     private String name;
     private int age;
 

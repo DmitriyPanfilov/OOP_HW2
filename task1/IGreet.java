@@ -1,6 +1,6 @@
 package lesson_2.homework2.task1;
 
-public interface Iterfeis {
+public interface IGreet {
     // вывод приветствия
     void greet();
 

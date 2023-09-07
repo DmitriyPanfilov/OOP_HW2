@@ -7,7 +7,6 @@ public class Main {
         Owner owner =new Owner("Сосиска",1, "Боб");
 
         // Использование методов и вывод информации
-//        cat1.greet();
         owner.greet();
 
 
